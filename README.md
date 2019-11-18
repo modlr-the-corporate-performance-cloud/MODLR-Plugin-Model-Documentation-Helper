@@ -1,4 +1,4 @@
-# Welcome to the MODLR Documentation Plugin Repository
+# Welcome to the MODLR Model Documentation Plugin Repository
 Open source drag and drop plugin used to extend MODLRs capabilities.
 
 ## Installation
